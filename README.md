@@ -1,11 +1,13 @@
-# 训练特殊的词向量
+# 训练基于句法规则的特殊词向量
 
 ### 简介
 代码源自word2vec的原作者，代码请见：
 
 * [Word2vec](https://code.google.com/archive/p/word2vec/)
 
-可用大规模训练语料可使用维基等的公开articles: http://mattmahoney.net/dc/enwik9.zip http://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.xml.bz2
+可用大规模训练语料可使用维基等的公开articles: 
+* http://mattmahoney.net/dc/enwik9.zip 
+* http://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.xml.bz2
 
 ### 使用设置
 * 数据处理： 依存关系可使用句法依存或语义依存（需外部包支持，如斯坦福core-nlp或ltp-nlp）。
