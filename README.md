@@ -10,7 +10,7 @@
 * http://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.xml.bz2
 
 ### 使用设置
-* 数据处理： 依存关系可使用句法依存或语义依存（需外部包支持，如斯坦福core-nlp或ltp-nlp）。
+* 数据处理： 依存关系可使用句法依存或语义依存（需外部包支持，如斯坦福core-nlp或哈工大ltp-nlp）。
 * 维基数据预处理及切分可使用相关工具（包含在工程中）。
   
 ### 开始训练
